@@ -4,8 +4,8 @@
   <h3>👋 Olá, bem-vindo(a) ao meu perfil!</h3>
 
   <p>
-    🎒 Bacharelado em Ciência da Computação | 🎓 UNICAP (Universidade Católica de Pernambuco)<br/>
-    💻 Focado em Desenvolvimento de Software, Algoritmos e Arquitetura de Sistemas
+    🎓 Bacharelado em Ciência da Computação | UNICAP (Universidade Católica de Pernambuco)<br/>
+    💻 Focado em Desenvolvimento de Software, Algoritmos, Compiladores e Inteligência Artificial
   </p>
 </div>
 
@@ -26,6 +26,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white" />
 </div>
+
+<br/>
+
+### 📜 Cursos & Especializações
+
+- 🤖 **Imersão Agentes de IA na Prática** — Daxus[cite: 3]
+- 💡 **Engenharia de Prompts e Claude** — Daxus *(Em andamento)*
+- ⚡ **Jornada Inteligência Artificial** — Hashtag Treinamentos[cite: 4]
+- 🎓 **IA para Aprender: Potencialize seus Estudos** — UNICAP[cite: 2]
 
 <br/>
 
