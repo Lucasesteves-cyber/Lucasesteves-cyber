@@ -31,10 +31,10 @@
 
 ### 📜 Cursos & Especializações
 
-- 🤖 **Imersão Agentes de IA na Prática** — Daxus[cite: 3]
+- 🤖 **Imersão Agentes de IA na Prática** — Daxus
 - 💡 **Engenharia de Prompts e Claude** — Daxus *(Em andamento)*
-- ⚡ **Jornada Inteligência Artificial** — Hashtag Treinamentos[cite: 4]
-- 🎓 **IA para Aprender: Potencialize seus Estudos** — UNICAP[cite: 2]
+- ⚡ **Jornada Inteligência Artificial** — Hashtag Treinamentos
+- 🎓 **IA para Aprender: Potencialize seus Estudos** — UNICAP
 
 <br/>
 
