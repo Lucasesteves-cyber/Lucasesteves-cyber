@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white" />
 </div>
 
 <br/>
@@ -52,5 +51,5 @@
 <br/>
 
 <div align="center">
-  <sub>Desenvolvido com 💙 por Lucas Esteves</sub>
+  <sub>Desenvolvido por Lucas Esteves</sub>
 </div>
