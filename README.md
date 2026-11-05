@@ -47,10 +47,10 @@
     <td width="50%">
       <h4>🤖 Inteligência Artificial & Agentes</h4>
       <ul>
-        <li><b>Imersão Agentes de IA na Prática</b> — Daxus[cite: 3]</li>
+        <li><b>Imersão Agentes de IA na Prática</b> — Daxus</li>
         <li><b>Engenharia de Prompts e Claude</b> — Daxus <i>(Em andamento)</i></li>
-        <li><b>Jornada Inteligência Artificial</b> — Hashtag Treinamentos[cite: 4]</li>
-        <li><b>IA para Aprender</b> — UNICAP[cite: 2]</li>
+        <li><b>Jornada Inteligência Artificial</b> — Hashtag Treinamentos</li>
+        <li><b>IA para Aprender</b> — UNICAP</li>
       </ul>
     </td>
     <td width="50%">
